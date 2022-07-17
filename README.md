@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varlight
-- 👀 I’m interested in ...Web D, learning new techs, meeting new people, participate in events
-- 🌱 I’m currently learning ...Pyhton
+- 👀 I’m interested in ...Web D, learning new techs, meeting new people, participating in events
+- 🌱 I’m currently learning ...Python
 - 📫 reach me ...at cordiplay@protonmail.com  
 
 <!---
