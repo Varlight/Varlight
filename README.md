@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,Solidity,**
 
-- 📫 How to reach me **cordiplay@protonmail.com**
+- 📫 How to reach me **stillrockinn@proton.me**
 
 - ⚡ Fun fact **I don't sleep**
 
