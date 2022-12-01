@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/srivarsan__" target="blank"><img src="https://img.shields.io/twitter/follow/srivarsan__?logo=twitter&style=for-the-badge" alt="srivarsan__" /></a> </p>
 
-- 🌱 I’m currently learning **React,Solidity,**
+- 🌱 I’m currently learning **Js,Solidity,**
 
 - 📫 How to reach me **stillrockinn@proton.me**
 
-- ⚡ Fun fact **I don't sleep**
+- ⚡ Fun fact **I am serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
