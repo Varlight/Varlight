@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/srivarsan__" target="blank"><img src="https://img.shields.io/twitter/follow/srivarsan__?logo=twitter&style=for-the-badge" alt="srivarsan__" /></a> </p>
 
-- 🌱 I’m currently learning **Js,Solidity,**
+- 🌱 I’m currently learning **DSA,fiddling with AI**
 
 - 📫 How to reach me **stillrockinn@proton.me**
 
