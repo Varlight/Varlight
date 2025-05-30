@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varlight&label=Profile%20views&color=0e75b6&style=flat" alt="varlight" /> </p>
 
-<p align="left"> <a href="https://twitter.com/srivarsan__" target="blank"><img src="https://img.shields.io/twitter/follow/srivarsan__?logo=twitter&style=for-the-badge" alt="srivarsan__" /></a> </p>
+
 
 - 🌱 I’m currently learning **DSA,fiddling with AI**
 
